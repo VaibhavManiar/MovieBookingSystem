@@ -1,0 +1,5 @@
+rootProject.name = 'MovieBookingSystem'
+include 'core'
+include 'api'
+include 'client'
+
